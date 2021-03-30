@@ -1,7 +1,17 @@
-### Hi there 👋
+## Hi there 👋
+### 💬 About Me
+- 🌱 I’m currently learning __java, jsp, spring, web__
+- ⚡ I'm mainly focusing on studying back-end & server side
 
+### &#128187; Tech Stack
+- &#9989; Java / Spring / JSP&Servlet / PHP 
+- &#9989; Oracle / MySQL / MyBatis
+- &#9989; HTML / CSS / Javascript
+
+### 📫 Contact me
+- 📝 dbsrkrnd1121@naver.com	
 <!--
-**dbsrkrnd/dbsrkrnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**junu0516/junu0516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=junu0516)](https://github.com/junu0516/github-readme-stats)
